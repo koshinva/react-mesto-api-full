@@ -1,0 +1,16 @@
+.entry-form__title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: 50px;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 450px) {
+  .entry-form__title {
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+}

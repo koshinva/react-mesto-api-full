@@ -1,0 +1,13 @@
+@media screen and (max-width: 550px) {
+  .header__burger-button_type_active span {
+    display: none;
+  }
+  .header__burger-button_type_active:before {
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+  }
+  .header__burger-button_type_active:after {
+    top: 50%;
+    transform: translateY(-50%) rotate(-45deg);
+  }
+}

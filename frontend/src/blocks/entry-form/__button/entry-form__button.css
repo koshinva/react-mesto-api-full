@@ -1,0 +1,23 @@
+.entry-form__button {
+  margin-top: 216px;
+  width: 100%;
+  min-height: 50px;
+  background-color: #fff;
+  border: none;
+  color: #000;
+  font-size: 18px;
+  text-align: center;
+  line-height: 1.2;
+  border-radius: 2px;
+  transition: opacity 0.3s;
+}
+.entry-form__button:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+@media screen and (max-width: 450px) {
+  .entry-form__button {
+    margin-top: 173px;
+    font-size: 16px;
+  }
+}

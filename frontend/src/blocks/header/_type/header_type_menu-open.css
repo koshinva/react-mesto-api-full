@@ -1,0 +1,15 @@
+@media screen and (max-width: 550px) {
+  .header_type_menu-open {
+    margin-top: 142px;
+  }
+  .header_type_menu-open::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -27px;
+    height: 1px;
+    width: 100%;
+    background-color: #545454;
+    opacity: 0.7;
+  }
+}

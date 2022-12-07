@@ -1,0 +1,13 @@
+.popup__body_location_entry-form {
+  width: 430px;
+  height: 330px;
+  padding: 60px 36px;
+}
+
+@media screen and (max-width: 550px) {
+  .popup__body_location_entry-form {
+    width: 280px;
+    height: 308px;
+    padding: 50px 18px;
+  }
+}
