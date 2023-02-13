@@ -30,9 +30,9 @@ _Скриншот главной страницы_
 <img src="./frontend/src/images/readme/mongodb_original_wordmark_logo_icon_146425.png" alt="mongoDB logo">
 
 
-:heavy_check_mark: Валидация данных - \_Celebrate, Validator*
-:heavy_check_mark: Шифрование пароля - \_Bcrypt*
-:heavy_check_mark: Передача токена пользователю - \_Cookie, Cookie-parser*
+:heavy_check_mark: Валидация данных - __*Celebrate, Validator*__
+:heavy_check_mark: Шифрование пароля - __*Bcrypt*__
+:heavy_check_mark: Передача токена пользователю - __*Cookie, Cookie-parser*__
 
 <hr>
 
